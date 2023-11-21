@@ -1,0 +1,1 @@
+O código para validar a acurácia desses novos removedores de rúido pode ser reaproveitado do Experimento III. Basta importar as configurações corretas que referem-se ao modelo de remoção de ruído adaptado previamente treinado. A título de curiosidade, é deixada a configuração da rede que obteve mais sucesso no experimento analisado (phi=1.0 e omega=-0.5)
